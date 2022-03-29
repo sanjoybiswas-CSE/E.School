@@ -20,18 +20,18 @@
 }
 .signin{
     background: #21B573;
-border-radius: 33px;
-color: white;
+    border-radius: 33px;
+    color: white;
 }
 .button{
     display: flex;
-flex-direction: row;
-padding: 8px 36px;
-margin-top: 3%;
-color: white;
-background: #21B573;
-border: none;
-border-radius: 33px;
+    flex-direction: row;
+    padding: 8px 36px;
+    margin-top: 3%;
+    color: white;
+    background: #21B573;
+    border: none;
+    border-radius: 33px;
 }
 h5{
     color: #FD511A;
@@ -49,8 +49,8 @@ span{
 }
 .container img{
     margin-top: 15%;
-width: 554px;
-height: 346px;
+    width: 554px;
+    height: 346px;
 }
 
 /* 2nd part */
